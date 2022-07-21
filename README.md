@@ -1,1 +1,1 @@
-# odin-recipes
+Goal is to make a website about recipes.  I plan on adding links to each recipe and a link to go home.  Maybe some pictures on each page but not confirmed.
